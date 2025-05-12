@@ -20,3 +20,5 @@ This project presents an interactive Excel dashboard built from the [Superstore 
 
 ## 📊 Dashboard Highlights
 
+-<a href="https://github.com/Rupali-2001/Superstore-sales-Analysis-Dashboard/blob/main/sales%20data%20dashboard.jpg">View Dashboard</a>
+
